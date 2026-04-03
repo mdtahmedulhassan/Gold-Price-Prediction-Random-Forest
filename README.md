@@ -175,10 +175,10 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 🙋‍♂️ Author
 
-**Shadab**
-- 📧 your-email@example.com
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+Md. Tahmedul Hassan
+- 📧 your-tahmedulhassan@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-tahmedul-hassan-94662b327/)
+- 🐙 [GitHub](https://github.com/mdtahmedulhassan)
 
 ---
 
