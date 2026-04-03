@@ -1,6 +1,6 @@
 # 🪙 Gold Price Prediction using Random Forest Regressor
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-3.13%2B-blue?style=flat-square&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
@@ -176,7 +176,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## 🙋‍♂️ Author
 
 Md. Tahmedul Hassan
-- 📧 your-tahmedulhassan@gmail.com
+- 📧 tahmedulhassan@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/md-tahmedul-hassan-94662b327/)
 - 🐙 [GitHub](https://github.com/mdtahmedulhassan)
 
